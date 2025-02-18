@@ -7,7 +7,7 @@ Introduction:
 	•	Research Question:
 “How do altcoin price movements correlate with Bitcoin’s price movements and dominance in the cryptocurrency market?”
 	•	Brief Approach:
-“I plan to fetch real-time and historical cryptocurrency price data from public APIs, store the data in PostgreSQL, and use correlation analysis to identify relationships between Bitcoin and major altcoins.”
+“We plan to fetch real-time and historical cryptocurrency price data from public APIs, store the data in PostgreSQL, and use correlation analysis to identify relationships between Bitcoin and major altcoins.”
 
 
 Data Description:
@@ -17,7 +17,7 @@ Data Description:
 	•	Scope:
 “The dataset will include price data for Bitcoin and at least 5 popular altcoins over the last year.”
 	•	Details:
-“I estimate this will result in hundreds thousands of records per asset, with fields such as timestamps, open prices, high prices, low prices, close prices, and volume.”
+“We estimate this will result in hundreds thousands of records per asset, with fields such as timestamps, open prices, high prices, low prices, close prices, and volume.”
 	•	Database:
 “The data will be stored in a PostgreSQL database to ensure efficient querying and analysis.”
 
@@ -25,7 +25,7 @@ Data Description:
 Methodology:
 
 	•	Tools:
-“I will use Python for data collection and storage, leveraging libraries like requests for API calls and psycopg2 for PostgreSQL interactions. For analysis, I’ll use pandas for preprocessing and numpy or scipy for correlation computations.”
+“We will use Python for data collection and storage, leveraging libraries like requests for API calls and psycopg2 for PostgreSQL interactions. For analysis, We’ll use pandas for preprocessing and numpy or scipy for correlation computations.”
 	•	Analysis Type:
 “This project involves descriptive analysis to summarize the data and diagnostic analysis to explore how Bitcoin’s dominance affects altcoin price movements. For deeper insights, if time permits, predictive analysis may be incorporated to assess future correlations.”
 	•	Workflow:
@@ -38,5 +38,5 @@ Methodology:
 
 Expected Outcomes:
 
-	•	“I expect to find varying degrees of correlation between Bitcoin and altcoins, with some altcoins showing strong dependence on Bitcoin dominance while others may display weaker or no correlation.”
+	•	“We expect to find varying degrees of correlation between Bitcoin and altcoins, with some altcoins showing strong dependence on Bitcoin dominance while others may display weaker or no correlation.”
 	•	“These insights can inform traders about potential market trends and help in crafting data-driven trading strategies.”
