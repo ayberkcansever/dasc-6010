@@ -1,10 +1,24 @@
 # **Cryptocurrency Market Correlation Analysis**
 
 ## **Problem Statement**
-Cryptocurrency markets are volatile, and altcoins often react to Bitcoin’s price movements.
 
-- **Importance**: Understanding correlations helps traders manage risks and optimize their portfolios.
-- **Research Question**: How do altcoin price movements correlate with Bitcoin’s price and dominance?
+### **Cryptocurrency Market Volatility**
+Cryptocurrency markets are highly volatile, with prices frequently experiencing large fluctuations within short periods. While Bitcoin (BTC) is the dominant cryptocurrency, accounting for a significant portion of the total market capitalization, its price movements often influence the behavior of altcoins (alternative cryptocurrencies). This phenomenon is particularly evident during bull and bear markets, where Bitcoin's trends can dictate overall market sentiment.
+
+### **Bitcoin's Influence on Altcoins**
+Since Bitcoin is widely considered the "reserve currency" of the crypto market, many altcoins exhibit correlated price movements, reacting to BTC’s fluctuations in varying degrees. However, not all altcoins respond uniformly—some may move in tandem with BTC, while others exhibit more independent trends due to unique market factors such as ecosystem development, adoption, and external influences.
+
+### **Importance**
+Understanding the correlation between Bitcoin and altcoins is crucial for:
+- **Risk Management**: Traders and investors can assess how altcoins move in relation to BTC, enabling them to hedge against market risks.
+- **Portfolio Optimization**: Identifying less-correlated assets allows for diversification, reducing exposure to single-asset volatility.
+- **Market Sentiment Analysis**: Bitcoin dominance (BTC’s market share relative to altcoins) serves as a key indicator of whether investors favor Bitcoin over altcoins in different market conditions.
+- **Strategic Trading Decisions**: High-correlation altcoins can be used for arbitrage strategies, while low-correlation ones can act as alternative investments in volatile periods.
+
+### **Research Question**
+This project seeks to answer the question:
+**"How do altcoin price movements correlate with Bitcoin’s price movements and dominance in the cryptocurrency market?"**
+By analyzing historical price data and computing correlation metrics, we aim to quantify these relationships and understand their implications for traders and investors.
 
 ---
 
