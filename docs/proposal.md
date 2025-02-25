@@ -87,6 +87,8 @@ By analyzing historical price data and computing correlation metrics, we aim to 
 ## **Timeline**
 ![Project Timeline](timeline.png)
 
+https://studentsecuedu66932-my.sharepoint.com/:x:/r/personal/cansevera22_students_ecu_edu/_layouts/15/doc2.aspx?sourcedoc=%7B1A355EE8-2B84-481E-8891-C10C2D63BB72%7D&file=Book.xlsx&mobileredirect=true&ct=1740501675823&wdlcid=1033&wdNewAndOpenCt=1740501675823&wdOrigin=CREATE-WEB.TEMPLATE.OPENCONTROL&wdPreviousSession=bcc2cf8b-3185-46ea-bca5-e1e59b18ff31&wdPreviousSessionSrc=ExternalSearch&wdTpl=TM16410085&action=editnew
+
 ---
 
 📌 *This project aims to provide actionable insights into Bitcoin’s influence on altcoin markets, helping traders develop better strategies based on historical data and statistical correlations.*
