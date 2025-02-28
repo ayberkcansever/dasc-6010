@@ -30,7 +30,7 @@ def execute_query(connection, query, data):
         print(f"The error '{e}' occurred")
 
 
-cryptos = ['BTCUSDT', 'ETHUSDT', 'XRPUSDT', 'BNBUSDT', 'ADAUSDT', 'SOLUSDT']
+cryptos = ['BTCUSDT', 'ADAUSDT', 'ATOMUSDT', 'BCHUSDT', 'BNBUSDT', 'DOGEUSDT', 'ETHUSDT', 'LTCUSDT', 'SOLUSDT']
 
 base_start_date = datetime(2021, 1, 1)
 end_date = datetime.now()
